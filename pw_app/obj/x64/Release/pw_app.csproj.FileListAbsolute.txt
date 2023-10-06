@@ -1,0 +1,16 @@
+C:\Users\polyw\source\repos\pw_app\pw_app\bin\x64\Release\pw_app.exe.config
+C:\Users\polyw\source\repos\pw_app\pw_app\bin\x64\Release\pw_app.exe
+C:\Users\polyw\source\repos\pw_app\pw_app\bin\x64\Release\pw_app.pdb
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.csproj.AssemblyReference.cache
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.csproj.SuggestedBindingRedirects.cache
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.AboutBox1.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.Form1.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.Licence.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.Properties.Resources.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.csproj.GenerateResource.cache
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.csproj.CoreCompileInputs.cache
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.exe
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.pdb
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.Settings.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.SettingsError.resources
+C:\Users\polyw\source\repos\pw_app\pw_app\obj\x64\Release\pw_app.QuickNation.resources
