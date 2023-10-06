@@ -1,4 +1,4 @@
-# Politics_And_War_App
+# Politics And War App
 An app for the game Politics and War (https://politicsandwar.com)
 
 System Requirements:
